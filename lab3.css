@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" type="text/css" href="external.css">
+</head>
+<body>
+
+<h1>My PengHu Trip</h1>
+
+<h2> Here are some foods I ate</h2>
+
+<em>(only introduce some of my favorite)</em>
+
+<table border = "1">
+  <thead>
+    <tr>
+      <th><h3>food</th></h3>
+      <th><h3>photo</th></h3>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+
+      <td>Black sugar cake</td>
+      <td><img src = "bsc.jpg" width="200" height="200"></td>
+      
+    </tr>
+    <tr>
+      <td>Cactus Ice</td>
+      <td><img src = "ci.jpg" width="200" height="200"></td>
+    </tr>
+    <tr>
+     <td>Seafood BBQ</td>
+     <td><img src = "BBQ.jpg" width="200" height="200"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>
+</html>

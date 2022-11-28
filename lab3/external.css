@@ -1,0 +1,36 @@
+<style type ="text/css">
+
+body{ background-color:pink;padding: 20px;font-family: sans-serif;color: cadetblue;} 
+h1{background-color: lightblue;}
+
+a:hover{color:red;}
+li em{color:red;}
+h1, em{color:greenyellow;}
+ul{margin-left: :20px;}
+ul ul{font-size: .8em;}
+
+p{font-size: 12pt; color:goldenrod;font-family:arial,sans-serif; }
+
+@media screen and (min-width:480px){
+	body{background-color: lightblue;}
+}
+
+nav  {font-weight:bold;color: white;
+	  border: 2px solid rosybrown;
+	  text-align: center;
+	  width: 10em;
+	  background-color: darkcyan;}
+nav ul{display: none;
+	   list-style: cadetblue;
+	   margin: 0;
+	   padding: 0;}
+nav:hover ul{display:block;}
+nav ul li{border-top:2px solid rebeccapurple;
+		  background-color: rosybrown;
+		  width:10em;
+		  color:black;}
+nav ul li:hover {background-color: palevioletred;}
+a {text-decoration: none;}
+	
+	
+</style>
