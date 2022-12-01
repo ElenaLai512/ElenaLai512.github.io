@@ -1,0 +1,15 @@
+
+body{background-color: lightblue;}
+.table{display: table;}
+.tr{display: table-row grid;}
+.th{display: table-cell;}
+textarea{float: right;}
+img{float: right;}
+
+
+@media screen and (min-width: 600px){
+	body{
+		background-color: lightsteelblue;
+		color: blueviolet;
+	}
+}
